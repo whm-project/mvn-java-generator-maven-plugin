@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Java Generator Maven Plugin</name>
+      <prefix>java-generator</prefix>
+      <artifactId>java-generator-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
