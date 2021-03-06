@@ -1,0 +1,1 @@
+# mvn-java-generator-maven-plugin
